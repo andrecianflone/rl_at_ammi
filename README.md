@@ -6,7 +6,11 @@ This repo includes lecture slides, notebooks and other material for the RL week 
 - [Slides](https://www.dropbox.com/s/5ga00w9lpnwgrxc/jpineau-AMMI-jan19-day1.pdf?dl=0)
 - [Policy/Value Iteration exercises](https://colab.research.google.com/drive/1afUECtd3IC65A7v46_CxWFF6p9DIvsEX)
 - Policy/Value Iteration solutions (coming)
+
+**Extra**:
 - [Supplementary: Policy/Value Iteration in Matrix form](https://drive.google.com/file/d/1UR20JtQRjFyrvCseusVuPBmQIpB3XFAH/view?usp=sharing)
+- RL book Chapter 4, Dynamic Programming (link below)
+- Dynamic Programming [lecture video](https://youtu.be/Nd1-UUMVfz4)
 
 ## Monte Carlo and TD learning
 - Slides
@@ -14,4 +18,5 @@ This repo includes lecture slides, notebooks and other material for the RL week 
 
 ## External Resources
 - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html), by Sutton and Barto, 2018. This is the canonical RL book which has everything you need to learn RL.
+- RL Course Lectures by David Silver, [videos](https://www.youtube.com/playlist?list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT), [slides](`
 
