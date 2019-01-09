@@ -2,8 +2,8 @@
 
 This repo includes lecture slides, notebooks and other material for the RL week at AMMI, the [African Masters of Machine Intelligence](https://aims-ammi.com/)
 
-## Value/Policy Iteration
-- [Slides](https://www.dropbox.com/s/5ga00w9lpnwgrxc/jpineau-AMMI-jan19-day1.pdf?dl=0)
+## Policy/Value Iteration
+- [Slides](https://drive.google.com/file/d/1nV5uRjZ3tpLe9mxBP9-uEsSSnmjCuuAq/view?usp=sharing)
 - [Policy/Value Iteration exercises](https://colab.research.google.com/drive/1afUECtd3IC65A7v46_CxWFF6p9DIvsEX)
 - [Policy/Value Iteration solutions](https://colab.research.google.com/drive/1-hxzgqcjKE6jz5YEfqwwKA2UGjQLdcgD)
 
@@ -13,7 +13,7 @@ This repo includes lecture slides, notebooks and other material for the RL week 
 - Dynamic Programming [lecture video](https://youtu.be/Nd1-UUMVfz4)
 
 ## Monte Carlo and TD learning
-- Slides
+- [Slides](https://drive.google.com/file/d/1GixlcRPutISNhZhSbrO9UxLokhkvA35W/view?usp=sharing)
 - [Colab notebook](https://colab.research.google.com/drive/1Roigbh8VRXGnslxb4F6RHyQ4V0qD5sps)
 
 ## External Resources
