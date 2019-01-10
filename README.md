@@ -17,6 +17,6 @@ This repo includes lecture slides, notebooks and other material for the RL week 
 - [Colab notebook](https://colab.research.google.com/drive/1Roigbh8VRXGnslxb4F6RHyQ4V0qD5sps)
 
 ## External Resources
-- [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html), by Sutton and Barto, 2018. This is the canonical RL book which has everything you need to learn RL.
+- [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html), by Sutton and Barto, 2018. This is the canonical RL book which has everything you need to learn RL. 
 - RL Course Lectures by David Silver, [videos](https://www.youtube.com/playlist?list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT), [slides](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 
