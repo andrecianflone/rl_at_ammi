@@ -14,7 +14,8 @@ This repo includes lecture slides, notebooks and other material for the RL week 
 
 ## Monte Carlo and TD learning
 - Day 3 [Slides](https://drive.google.com/file/d/1GixlcRPutISNhZhSbrO9UxLokhkvA35W/view?usp=sharing)
-- [Colab notebook](https://colab.research.google.com/drive/1Roigbh8VRXGnslxb4F6RHyQ4V0qD5sps)
+- [Monte Carlo / TD exercises](https://github.com/andrecianflone/rl_at_ammi/blob/master/MonteCarlo_TD_exercise.ipynb)
+- Monte Carlo / TD solutions to come
 
 ## External Resources
 - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html), by Sutton and Barto, 2018. This is the canonical RL book which has everything you need to learn RL. 
