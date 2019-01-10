@@ -13,7 +13,7 @@ This repo includes lecture slides, notebooks and other material for the RL week 
 - Dynamic Programming [lecture video](https://youtu.be/Nd1-UUMVfz4)
 
 ## Monte Carlo and TD learning
-- Day 3 [Slides](https://drive.google.com/file/d/1GixlcRPutISNhZhSbrO9UxLokhkvA35W/view?usp=sharing)
+- Day 3 [Slides](https://drive.google.com/file/d/1hTN1Df0a6CoMVBN8EAsecWJsKzvfE-Z3/view?usp=sharing)
 - [Monte Carlo / TD exercises](https://github.com/andrecianflone/rl_at_ammi/blob/master/MonteCarlo_TD_exercise.ipynb)
 - Monte Carlo / TD solutions to come
 
