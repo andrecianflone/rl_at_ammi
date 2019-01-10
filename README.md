@@ -13,9 +13,12 @@ This repo includes lecture slides, notebooks and other material for the RL week 
 - Dynamic Programming [lecture video](https://youtu.be/Nd1-UUMVfz4)
 
 ## Monte Carlo and TD learning
-- Day 3 [Slides](https://drive.google.com/file/d/1hTN1Df0a6CoMVBN8EAsecWJsKzvfE-Z3/view?usp=sharing)
+- Day 3 [Slides](https://www.dropbox.com/s/611hf9c4o9nwqhv/jpineau-AMMI-jan19-day3.pdf?dl=0)
 - [Monte Carlo / TD exercises](https://github.com/andrecianflone/rl_at_ammi/blob/master/MonteCarlo_TD_exercise.ipynb)
 - [Monte Carlo / TD solutions](https://github.com/andrecianflone/rl_at_ammi/blob/master/MonteCarlo_TD_solution.ipynb)
+
+## Function Approximation
+- Day 5 [Slides](https://www.dropbox.com/s/i299wbfft190vyj/jpineau-AMMI-jan19-day5.pdf?dl=0)
 
 ## External Resources
 - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html), by Sutton and Barto, 2018. This is the canonical RL book which has everything you need to learn RL. 
