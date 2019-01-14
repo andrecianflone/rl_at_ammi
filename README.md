@@ -26,7 +26,8 @@ This repo includes lecture slides, notebooks and other material for the RL week 
 
 ## Policy Gradient - REINFORCE
 
-Extras:
+- [REINFORCE exercise](https://github.com/andrecianflone/rl_at_ammi/blob/master/REINFORCE_exercise.ipynb)
+  Extras:
 
 - Policy Gradient [Algorithms](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html)
 - Policy Gradient Explained - [Blog Post](https://medium.com/@jonathan_hui/rl-policy-gradients-explained-9b13b688b146)
