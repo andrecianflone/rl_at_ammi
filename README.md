@@ -35,6 +35,16 @@ This repo includes lecture slides, notebooks and other material for the RL week 
 - Policy Gradient Explained - [Blog Post](https://medium.com/@jonathan_hui/rl-policy-gradients-explained-9b13b688b146)
 - Policy Gradient [lecture video](https://www.youtube.com/watch?v=KHZVXao4qXs&t=3160s&index=8&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)
 
+## Python and Numpy
+
+- [Python Basics](https://github.com/andrecianflone/rl_at_ammi/blob/master/Python_Basics.ipynb)
+
+**Extra**:
+
+- [Python crash course](https://drive.google.com/file/d/1Uumx3bCO5CyzSIzbcybxW30yeBG3bSnK/view)
+- [Numpy crash course](https://drive.google.com/file/d/1labdEvCWP3-OnzWh97lCX-8VbKQV00cH/view)
+- How to build your own [Neural Network from scratch in Python](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
+
 ## External Resources
 
 - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html), by Sutton and Barto, 2018. This is the canonical RL book which has everything you need to learn RL.
