@@ -36,6 +36,10 @@ This repo includes lecture slides, notebooks and other material for the RL week 
 - Policy Gradient Explained - [Blog Post](https://medium.com/@jonathan_hui/rl-policy-gradients-explained-9b13b688b146)
 - Policy Gradient [lecture video](https://www.youtube.com/watch?v=KHZVXao4qXs&t=3160s&index=8&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)
 
+## Models and Hierarchy
+
+- Day 8 [Slides](https://drive.google.com/file/d/1ipZbvykJ5wlLmxOBMGvAzEWwNT1u9moQ/view)
+
 ## Python and Numpy
 
 - [Python Basics](https://github.com/andrecianflone/rl_at_ammi/blob/master/Python_Basics.ipynb)
