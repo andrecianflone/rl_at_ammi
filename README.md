@@ -30,7 +30,9 @@ This repo includes lecture slides, notebooks and other material for the RL week 
 - [REINFORCE exercise](https://github.com/andrecianflone/rl_at_ammi/blob/master/REINFORCE_exercise.ipynb)
 - [REINFORCE solution](https://github.com/andrecianflone/rl_at_ammi/blob/master/REINFORCE_solution.ipynb)
 - [REINFORCE with learned Baseline exercise](https://github.com/andrecianflone/rl_at_ammi/blob/master/REINFORCE-learned-baseline_exercise.ipynb)
+- [REINFORCE with learned Baseline solution](https://github.com/andrecianflone/rl_at_ammi/blob/master/REINFORCE-learned-baseline_solution.ipynb)
 - [Actor-Critic](https://github.com/andrecianflone/rl_at_ammi/blob/master/Actor-Critic_exercise.ipynb)
+- [Actor-Critic solution](https://github.com/andrecianflone/rl_at_ammi/blob/master/Actor-Critic_solution.ipynb)
 
 **Extra**:
 
