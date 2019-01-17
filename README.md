@@ -29,6 +29,8 @@ This repo includes lecture slides, notebooks and other material for the RL week 
 - Day 6 [Slides](https://drive.google.com/file/d/1I0yvIFIHfvkRwN_BL1K8gJZ7Hhj6buAl/view)
 - [REINFORCE exercise](https://github.com/andrecianflone/rl_at_ammi/blob/master/REINFORCE_exercise.ipynb)
 - [REINFORCE solution](https://github.com/andrecianflone/rl_at_ammi/blob/master/REINFORCE_solution.ipynb)
+- [REINFORCE with learned Baseline exercise](https://github.com/andrecianflone/rl_at_ammi/blob/master/REINFORCE-learned-baseline_exercise.ipynb)
+- [Actor-Critic](https://github.com/andrecianflone/rl_at_ammi/blob/master/Actor-Critic_exercise.ipynb)
 
 **Extra**:
 
